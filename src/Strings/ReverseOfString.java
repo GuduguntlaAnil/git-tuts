@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class ReverseOfString {
 	public static void main(String [] args) {
 		System.out.println("Hello world guys");
+		System.out.println("Hello world guys");
 		}
 		
 		
